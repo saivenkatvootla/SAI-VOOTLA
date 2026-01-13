@@ -1,0 +1,7 @@
+{
+  "name": "MedWise: Generic Alternative & Label Assistant",
+  "description": "Scan labels, find generic alternatives using FDA-grounded data, translate medical instructions, and manage medication reminders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
